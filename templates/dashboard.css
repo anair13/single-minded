@@ -1,0 +1,20 @@
+body {
+	background-color: #ffdddd;
+	margin: 0px;
+	position: relative;	
+}
+
+#banner {
+	background-color: #ff0000;
+	border: 1px solid black;
+	height: 100px;
+	width: 100%;
+}
+
+#banner h1 {
+	font-family: Arial,sans-serif;
+	font-size: 38px;
+	position: relative;
+	left: 150px;
+	top: 10px;
+}
